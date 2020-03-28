@@ -1,8 +1,22 @@
-TreasureHuntMP - Multiplayer mit Phaser.io und Socker.io
+= TreasureHuntMP - Multiplayer mit Phaser.io und Socker.io
 Testimplementierung eins Multiplayer Labyrinth, Kistensuch und Shooter Phaser.io Spiels. 
 
+Was bis jetzt funktioniert:
+* Spieler adden und entfernen
+* Spieler können sich bewegen nerven
+* Spieler können Schatzkisten einsammeln
 
-Multiplayer Server und Client
+Was fehlt:
+* optimierung der synchronisieurng
+* Buildstrecke und Server und Client
+* Phaser.io integration in den Server
+
+Was geplant ist:
+* Diebeszug bei FreeDoom und erweiterung des Gameplays
+* Phaser.io Build Temple verwenden
+
+
+== Multiplayer Server und Client
 
 Weiter Infos unter apps/server/README.adoc und Weiter Infos unter apps/client/README.adoc
 
