@@ -1,0 +1,12 @@
+= Multiplayer Server
+
+== Starten 
+Wechsel in den Ordner *apps/server/*
+
+Depencies installieren mit *npm install* (optional)
+Starten mit *node index.js*
+Server loggt Statusinformationen auf die Konsole
+
+== Hinweis
+Node 12.xx und npm 6.12 (und höhrer) müssen installiert sein.
+Antivieren-Software kann durch die Aktivität des Server ausbremsen oder blockieren.

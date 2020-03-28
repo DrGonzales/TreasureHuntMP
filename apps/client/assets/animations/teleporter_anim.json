@@ -1,0 +1,72 @@
+{
+    "anims": [
+        {
+            "key": "teleportersphere",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_5"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_6"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_7"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_8"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_9"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_10"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_11"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_12"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_13"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_14"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_15"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_16"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_17"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_18"
+                },
+                {
+                    "key": "teleporter",
+                    "frame": "sphere_19"
+                }
+            ]
+        }
+    ]
+}

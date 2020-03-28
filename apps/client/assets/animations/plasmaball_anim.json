@@ -1,0 +1,28 @@
+{
+    "anims": [
+        {
+            "key": "fire",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "plasmaball",
+                    "frame": "plasma1"
+                },
+                {
+                    "key": "plasmaball",
+                    "frame": "plasma2"
+                },
+                {
+                    "key": "plasmaball",
+                    "frame": "plasma3"
+                },
+                {
+                    "key": "plasmaball",
+                    "frame": "plasma4"
+                }
+            ]
+        }
+    ]
+}

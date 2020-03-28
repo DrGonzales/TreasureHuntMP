@@ -1,0 +1,268 @@
+{
+    "frames": [
+        {
+            "filename": "sphere_0",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_1",
+            "frame": {
+                "x": 40,
+                "y": 0,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_2",
+            "frame": {
+                "x": 80,
+                "y": 0,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_3",
+            "frame": {
+                "x": 120,
+                "y": 0,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_4",
+            "frame": {
+                "x": 160,
+                "y": 0,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_5",
+            "frame": {
+                "x": 0,
+                "y": 34,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_6",
+            "frame": {
+                "x": 40,
+                "y": 34,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_7",
+            "frame": {
+                "x": 80,
+                "y": 34,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_8",
+            "frame": {
+                "x": 120,
+                "y": 34,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_9",
+            "frame": {
+                "x": 160,
+                "y": 34,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_10",
+            "frame": {
+                "x": 0,
+                "y": 68,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_11",
+            "frame": {
+                "x": 40,
+                "y": 68,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_12",
+            "frame": {
+                "x": 80,
+                "y": 68,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_13",
+            "frame": {
+                "x": 120,
+                "y": 68,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_14",
+            "frame": {
+                "x": 160,
+                "y": 68,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_15",
+            "frame": {
+                "x": 0,
+                "y": 102,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_16",
+            "frame": {
+                "x": 40,
+                "y": 102,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_17",
+            "frame": {
+                "x": 80,
+                "y": 102,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_18",
+            "frame": {
+                "x": 120,
+                "y": 102,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sphere_19",
+            "frame": {
+                "x": 160,
+                "y": 102,
+                "w": 40,
+                "h": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

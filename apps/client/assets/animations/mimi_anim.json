@@ -1,0 +1,100 @@
+{
+    "anims": [
+        {
+            "key": "walk_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "mimi",
+                    "frame": "player_0"
+                },
+                {
+                    "key": "mimi",
+                    "frame": "player_1"
+                },
+                {
+                    "key": "mimi",
+                    "frame": "player_2"
+                },
+                {
+                    "key": "mimi",
+                    "frame": "player_3"
+                }
+            ]
+        },
+        {
+            "key": "walk_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "mimi",
+                    "frame": "player_12"
+                },
+                {
+                    "key": "mimi",
+                    "frame": "player_13"
+                },
+                {
+                    "key": "mimi",
+                    "frame": "player_14"
+                },
+                {
+                    "key": "mimi",
+                    "frame": "player_15"
+                }
+            ]
+        },
+        {
+            "key": "walk_left",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "mimi",
+                    "frame": "player_4"
+                },
+                {
+                    "key": "mimi",
+                    "frame": "player_5"
+                },
+                {
+                    "key": "mimi",
+                    "frame": "player_6"
+                },
+                {
+                    "key": "mimi",
+                    "frame": "player_7"
+                }
+            ]
+        },
+        {
+            "key": "walk_right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "mimi",
+                    "frame": "player_8"
+                },
+                {
+                    "key": "mimi",
+                    "frame": "player_9"
+                },
+                {
+                    "key": "mimi",
+                    "frame": "player_10"
+                },
+                {
+                    "key": "mimi",
+                    "frame": "player_11"
+                }
+            ]
+        }
+    ]
+}

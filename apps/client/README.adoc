@@ -1,0 +1,15 @@
+= Multiplayer Client
+
+== Starten 
+Wechsel in den Ordner *apps/client/*
+
+Depencies installieren mit *npm install* (optional)
+Starten mit *npm run dev*
+Mit dem Browser zu *http://localhost:8080* navigieren
+
+Der Mehrspieler-Server muss laufen und unter localhost:3000 erreichbar sein.
+Änderungen der Mehrspieler-Server Adresse in der Datei *apps/client/scenes/game.js* in der Zeile *this.socket = io('http://localhost:3000');*
+
+== Hinweis
+Node 12.xx und npm 6.12 (und höhrer) müssen installiert sein
+Browser aktueller Firefox oder Chrome
